@@ -5,6 +5,6 @@ public class PersonTest {
 		Person p = new Person();
 		
 		System.out.println(p.toString());
-		
+		System.out.println(p.toString());
 	}
 }
